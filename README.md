@@ -22,9 +22,9 @@ Given a phone number `562198012345`  and a set of prefixes
 The application should select the record with prefix `562198`
     
 ### User story 
-As a user I can **enter a number and message into the application** 
-I can then **see the country and operator** of the number    
-I can **click a link** in the message to open the site 
+ - As a user I can **enter a number and message into the application**
+ - I can then **see the country and operator** of the number    
+ - I can **click a link** in the message to open the site 
   
 ### Technical Requirements  
 - We'd like you to use [React](https://facebook.github.io/react/) but add whatever ui framework you feel comfortable with - Typescript is fine but not required  
@@ -35,7 +35,7 @@ I can **click a link** in the message to open the site
 - Write a docker-compose.yml to run the application  
   
 ### Notes  
-Take as little or as much time on this as you feel you need
+Take as little or as much time on this as you feel you need. 
 Your time is valuable, so we wouldn't expect you to take more than a few hours on this.  
   
 ### Submission  
