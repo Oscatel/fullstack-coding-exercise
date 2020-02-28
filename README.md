@@ -1,7 +1,7 @@
 ## Fullstack Coding Exercise 
 ### Task   
 Create a web application to analyse an SMS message.  The application should     
-accept a telephone number and message string submitted by a user and send them     
+accept a telephone number and message string submitted by a user and send the data     
 to a backend for processing.  The application should then display the following     
 information    
     
@@ -37,7 +37,9 @@ The application should select the record with prefix `562198`
   
 ### Notes  
 Take as little or as much time on this as you feel you need. 
-Your time is valuable, so we wouldn't expect you to take more than a few hours on this.  
+Your time is valuable, so we wouldn't expect you to take more than 2-3 hours on this.  
+We're interested in your approach, and ideas as much as we are a working app, 
+so if something is not perfect don't worry, just tell us how you would improve it given more time.
   
 ### Submission  
 Please commit your application to a public git repository (github, bitbucket etc)   
