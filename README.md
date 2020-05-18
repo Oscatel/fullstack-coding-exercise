@@ -42,5 +42,4 @@ We're interested in your approach, and ideas as much as we are a working app,
 so if something is not perfect don't worry, just tell us how you would improve it given more time.
   
 ### Submission  
-Please commit your application to a public git repository (github, bitbucket etc)   
-and share the url with us
+Please commit your application to a github repository and share with user `d1rtym0nk3y`
